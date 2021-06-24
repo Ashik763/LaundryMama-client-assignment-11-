@@ -1,0 +1,12 @@
+#icon-div:hover #icon  {
+    animation-name: icon;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+}
+
+
+@keyframes icon {
+    0% {font-size:50px;}
+   
+    100% { font-size:55px; }
+  }

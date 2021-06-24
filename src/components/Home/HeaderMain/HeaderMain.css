@@ -1,0 +1,12 @@
+#line2 {
+    animation-name: line2;
+    animation-duration: 10s;
+    animation-iteration-count: 10;
+}
+
+@keyframes line2 {
+    0% {font-size:50px; color:red; opacity:0.1}
+    25%  { font-size:30px; top:0px;}
+    50%  { font-size:50px; top:0px;}
+    100% { font-size:30px; color:yellow; opacity:1;}
+  }
