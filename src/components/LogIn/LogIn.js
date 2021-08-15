@@ -67,7 +67,7 @@ const LogIn = () => {
         <br /> */}
         <button className="btn btn-dark" onClick={handleGoogleLogin}>
           {" "}
-          Google Sign In{" "}
+          google sign in{" "}
         </button>
       </div>
     </div>
